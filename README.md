@@ -1,6 +1,6 @@
 # rpath_example
 
-Example of how to set rpath with gcc.
+Example of how to set rpath with gcc on Linux.
 
 `do_test` is compiled with rpath set to `test_lib`, so `libsquareit.so` will be searched for there.
 
